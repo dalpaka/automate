@@ -1,1 +1,3 @@
 # automate
+
+## custom go module
